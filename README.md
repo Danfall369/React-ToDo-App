@@ -4,7 +4,7 @@
   <img src="./Readme/Umbrella.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Math Magicians</b></h3>
+  <h3><b>REACT TODO APP</b></h3>
 
 </div>
 
@@ -30,15 +30,12 @@
 - [📝 License](#license)
 
 
-# 📖 Math Magicians <a name="about-project"></a>
+# 📖 REACT TODO APP <a name="about-project"></a>
 
 
-**Math Magicians** "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+**REACT TODO APP** "Welcome to our Todo app built with Vite and React! Stay organized and increase productivity with our simple and intuitive user interface. Add, edit, and delete tasks with ease and keep track of your progress throughout the day. With lightning-fast performance and real-time updates, our app helps you stay on top of your tasks and accomplish your goals.:
 
-- Make simple calculations.
-- Read a random math-related quote.
-
-By building this application, using React.
+By building this application, using React and Vite.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,7 +51,7 @@ By building this application, using React.
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- You can see a live Demo of this proyect <a href="https://danfall-react-calculator.netlify.app/" >HERE</a>
+- You can see a live Demo of this proyect <a href="https://danfall-react-todo.netlify.app/" >HERE</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,7 +74,7 @@ Clone this repository to your desired folder by running the following commands i
 ```sh
   cd your-prefered-folder-name
   
-  git clone https://github.com/Danfall369/math-magicians.git
+  git clone https://github.com/Danfall369/vite-react-todo-app.git
 ```
 
 ### Install
@@ -85,7 +82,7 @@ Clone this repository to your desired folder by running the following commands i
 - Install this project with:
 
 ```sh
-  cd math-magicians
+  cd vite-react-todo-app
 
   npm install or npm i
 ```
