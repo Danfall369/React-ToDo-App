@@ -65,3 +65,13 @@ body {
   font-size: 20px;
   margin-top: 2px;
 }
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+/* Active route */
+.active {
+  color: #005bb3;
+}
